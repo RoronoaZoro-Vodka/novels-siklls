@@ -97,3 +97,6 @@ hermes cron create \
 ---
 
 > 本系统在《世界树之冕》（37章连载中）的创作过程中迭代成型。
+>
+<img width="989" height="501" alt="局部截取_20260515_153319" src="https://github.com/user-attachments/assets/d8a0fce2-ffb8-45ef-955b-45cf239288ac" />
+
